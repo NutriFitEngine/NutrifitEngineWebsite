@@ -4,7 +4,7 @@ Projeto de Formatura da Escola Politécnica da USP: Sistema de Geração de Reco
 
 ## Resumo
 
-O projeto apresenta o desenvolvimento de um sistema colaborativo capaz de gerar recomendações personalizadas de treinos e planos alimentares com apoio de inteligência artificial. A solução foi pensada para aproximar profissionais da saúde, nutricionistas e personal trainers, de seus clientes, oferecendo um ambiente unificado em que é possível acompanhar treinos, alimentação e progresso físico de forma integrada. Além do aplicativo mobile, voltado ao usuário final, o trabalho inclui a concepção de uma arquitetura modular e escalável baseada em microsserviços, responsável por orquestrar informações de usuários, treinos, planos alimentares, avaliações e dados gerados pela Inteligência Artificial.
+O projeto apresenta o desenvolvimento de um sistema colaborativo capaz de gerar recomendações personalizadas de treinos e planos alimentares com apoio de inteligência artificial. A solução foi pensada para aproximar nutricionistas e personal trainers de seus clientes, oferecendo um ambiente unificado em que é possível acompanhar treinos, alimentação e progresso físico de forma integrada. Além do aplicativo mobile, voltado ao usuário final, o trabalho inclui a concepção de uma arquitetura modular e escalável baseada em microsserviços, responsável por orquestrar informações de usuários, treinos, planos alimentares, avaliações e dados gerados pela Inteligência Artificial.
 
 ## Contexto e Motivação
 
